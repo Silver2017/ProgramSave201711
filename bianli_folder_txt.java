@@ -7,7 +7,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/*±éÀúÎÄ¼ş¼ĞÏÂµÄtxtÎÄ±¾£¬²ÎÊıÂ·¾¶+¸ñÊ½txt*/
+/*éå†æ–‡ä»¶å¤¹ä¸‹çš„txtæ–‡æœ¬ï¼Œå‚æ•°è·¯å¾„+æ ¼å¼txt*/
+
 public class bianli_folder_txt {
 	
 	public static void main(String[] args) {
